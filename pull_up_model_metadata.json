@@ -1,0 +1,14 @@
+{
+  "version": "1.1.0",
+  "training_info": {
+    "date_trained": "2026-03-15 00:17:46",
+    "num_samples": 60,
+    "test_accuracy": 1.0,
+    "test_loss": 0.3451729714870453,
+    "exercise_type": "pullup"
+  },
+  "labels": [
+    "correct",
+    "incorrect"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "training_info": {
+    "date_trained": "2026-03-15 00:51:50",
+    "num_samples": 60,
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_loss": 0.31297048926353455,
+    "exercise_type": "squat"
+  },
+  "labels": [
+    "correct",
+    "incorrect"
+  ]
+}
